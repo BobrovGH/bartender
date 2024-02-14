@@ -7,7 +7,7 @@ Bartender - концепт приложения для снятия остатк
 - [MySQL]
 
 ## Использование
-Для использования понадобиться 3 библиотеки
+Для использования понадобится установка 3-ёх библиотек:
 pip3 install mysql-connector-python
 pip3 install tkmacosx   
 pip3 install sqlalchemy
