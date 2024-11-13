@@ -1,0 +1,4 @@
+mysql_connector_repackaged==0.3.1
+Pillow==11.0.0
+SQLAlchemy==2.0.36
+tkmacosx==1.0.5
